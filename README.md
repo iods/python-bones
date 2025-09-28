@@ -1,5 +1,5 @@
-Meatball
-========
+Bones
+=====
 
 A project repository for a skeleton Python package.
 
